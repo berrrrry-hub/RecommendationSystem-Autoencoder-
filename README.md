@@ -61,7 +61,7 @@ The autoencoder-based method significantly improves learning speed and efficienc
 2. Original paper:  
 https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf
 
-3. Github implementation
+3. Github implementation:
 https://github.com/tuanio/AutoRec
 
 
